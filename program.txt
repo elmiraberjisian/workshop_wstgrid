@@ -1,0 +1,2 @@
+Day 1 : introduction to bash and version control
+
